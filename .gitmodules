@@ -7,3 +7,12 @@
 [submodule "src/rosbot3_description"]
 	path = src/rosbot3_description
 	url = git@github.com:seiberthenrique/rosbot3_description.git
+[submodule "rosbot3_gazebo"]
+	path = rosbot3_gazebo
+	url = git@github.com:seiberthenrique/rosbot3_gazebo.git
+[submodule "rosbot3_description"]
+	path = rosbot3_description
+	url = git@github.com:seiberthenrique/rosbot3_description.git
+[submodule "ros_commons"]
+	path = ros_commons
+	url = git@github.com:seiberthenrique/ros_commons.git
